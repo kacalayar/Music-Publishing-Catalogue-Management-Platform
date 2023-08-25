@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pubtalkapp.iml" filepath="$PROJECT_DIR$/.idea/pubtalkapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appbackend/pubtalkapp.iml" filepath="$PROJECT_DIR$/appbackend/pubtalkapp.iml" />
     </modules>
   </component>
 </project>

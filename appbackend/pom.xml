@@ -15,6 +15,8 @@
     <description>The indie publisher app</description>
     <properties>
         <java.version>11</java.version>
+        <sonar.organization>formula38</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <dependencies>
         <dependency>
@@ -45,6 +47,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
 
         <!-- HEDERA DEPENDENCIES -->
 
